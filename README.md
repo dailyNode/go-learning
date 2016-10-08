@@ -13,7 +13,7 @@
 
 #### 测试
 
-* [测试](http://goconvey.co/)
+* [goconvey](http://goconvey.co/)
 
 
 ## 书籍
